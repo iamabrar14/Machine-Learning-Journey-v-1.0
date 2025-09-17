@@ -1,0 +1,102 @@
+Student_ID,First_Name,Last_Name,Email,Gender,Age,Department,Attendance (%),Midterm_Score,Final_Score,Assignments_Avg,Quizzes_Avg,Participation_Score,SC_Projects_Score,Total_Score,Grade,Study_Hours_per_week,Extracurricular_Activities,Internet_Access,Parent_Education_Level,Family_Income_Level,Stress_Level (1-10)
+S1001,Jane,Smith,student1@drivetest.com,Male,24,CS,82.8,81.1,91.83,53.48,93.53,52.3,95.74,82.04,B,11.1,No,Yes,PhD,High,10
+S1002,Maria,Miller,student2@drivetest.com,Female,24,Mathematics,92.54,77.34,88.13,67.7,85.11,90.23,94.04,83.9,B,18.0,No,Yes,High School,Low,8
+S1003,Emma,Johnson,student3@drivetest.com,Male,23,CS,72.43,89.5,100.0,83.21,80.64,88.42,40.1,88.63,B,26.5,No,No,Master's,Medium,5
+S1004,Olivia,Jones,student4@drivetest.com,Male,24,Engineering,98.15,73.43,84.14,75.31,81.33,78.29,67.23,79.59,C,26.5,Yes,Yes,Master's,Medium,5
+S1005,Liam,Williams,student5@drivetest.com,Male,22,Engineering,89.28,66.19,73.5,52.93,65.65,99.98,90.02,71.29,C,14.6,No,Yes,High School,Low,7
+S1006,John,Williams,student6@drivetest.com,Female,20,CS,70.93,89.81,99.19,69.59,85.22,94.2,46.12,87.05,B,22.4,No,Yes,Bachelor's,Medium,7
+S1007,Peter,Miller,student7@drivetest.com,Female,21,Science,83.84,52.12,60.84,72.48,84.45,86.87,41.92,62.13,D,29.9,No,Yes,Master's,Low,10
+S1008,Liam,Smith,student8@drivetest.com,Female,24,Business,73.71,68.3,77.33,68.53,74.58,95.14,48.56,72.23,C,22.5,No,Yes,Master's,Low,3
+S1009,Liam,Jones,student9@drivetest.com,Male,21,Science,83.5,60.27,69.05,69.08,66.62,81.34,42.04,66.6,D,10.0,Yes,Yes,High School,Medium,3
+S1010,Olivia,Jones,student10@drivetest.com,Male,24,Engineering,80.24,56.89,66.49,76.54,72.33,96.65,49.12,65.71,D,28.8,No,Yes,PhD,High,10
+S1011,Ahmed,Smith,student11@drivetest.com,Female,22,Mathematics,92.68,89.57,98.61,68.64,84.7,85.83,86.04,90.47,A,21.5,Yes,Yes,Master's,High,2
+S1012,Susan,Wilson,student12@drivetest.com,Female,22,CS,71.07,70.47,78.53,61.85,73.68,89.47,40.11,71.21,C,10.7,No,Yes,None,Medium,5
+S1013,Sara,Davis,student13@drivetest.com,Female,22,Mathematics,90.04,94.9,100.0,76.53,74.79,53.44,48.11,89.7,B,25.6,Yes,Yes,Bachelor's,High,1
+S1014,Olivia,Jones,student14@drivetest.com,Female,19,Business,95.66,41.16,48.74,75.9,78.22,78.85,42.09,51.81,F,16.5,No,Yes,High School,Medium,8
+S1015,Peter,Smith,student15@drivetest.com,Female,23,CS,91.24,71.49,81.82,73.0,81.43,84.14,79.54,77.72,C,26.5,No,No,Bachelor's,High,8
+S1016,John,Davis,student16@drivetest.com,Female,18,CS,89.23,40.12,47.88,78.69,72.76,96.66,44.75,51.13,F,18.8,Yes,No,PhD,High,2
+S1017,Omar,Jones,student17@drivetest.com,Female,22,Engineering,86.29,66.01,74.34,60.67,73.5,86.4,85.2,71.86,C,26.8,Yes,No,Master's,High,8
+S1018,Susan,Wilson,student18@drivetest.com,Female,19,Mathematics,92.54,95.27,100.0,80.12,85.3,86.06,58.74,92.29,A,29.9,Yes,No,High School,Low,7
+S1019,Michael,Wilson,student19@drivetest.com,Female,20,Science,83.18,97.77,100.0,51.72,92.4,89.17,67.6,89.76,B,29.8,Yes,No,High School,Low,8
+S1020,Omar,Wilson,student20@drivetest.com,Male,24,Business,73.67,88.42,100.0,82.47,80.78,85.73,81.04,92.22,A,29.0,No,No,PhD,Medium,7
+S1021,Olivia,Jones,student21@drivetest.com,Female,23,Business,76.84,97.3,100.0,63.14,78.93,52.28,68.7,89.04,B,15.5,Yes,Yes,Master's,High,2
+S1022,Ahmed,Jones,student22@drivetest.com,Female,22,Business,70.52,71.3,79.4,65.65,71.31,81.16,56.76,72.93,C,12.1,Yes,Yes,None,Low,2
+S1023,Michael,Wilson,student23@drivetest.com,Female,24,CS,94.07,75.14,86.1,75.24,79.31,90.49,60.91,80.75,B,14.6,Yes,Yes,Master's,Low,3
+S1024,Sara,Wilson,student24@drivetest.com,Female,25,Engineering,72.95,49.2,55.8,59.38,68.7,78.83,92.34,58.91,F,13.2,No,Yes,PhD,High,1
+S1025,Emma,Miller,student25@drivetest.com,Female,24,CS,98.61,43.25,50.75,70.52,72.54,84.15,55.94,54.7,F,23.5,No,Yes,Bachelor's,Low,6
+S1026,Susan,Wilson,student26@drivetest.com,Male,23,Science,70.83,50.84,59.35,71.07,77.58,92.21,63.35,62.0,D,15.4,No,Yes,High School,Low,7
+S1027,Liam,Wilson,student27@drivetest.com,Male,23,CS,95.53,50.15,58.82,72.92,76.54,92.83,52.83,59.98,D,29.8,No,No,High School,Medium,9
+S1028,Jane,Jones,student28@drivetest.com,Male,22,Science,77.37,56.65,65.3,69.58,74.1,80.12,68.64,65.67,D,29.9,Yes,No,None,High,4
+S1029,John,Williams,student29@drivetest.com,Male,22,Business,87.35,50.31,58.07,66.86,72.23,90.96,52.48,59.0,F,18.0,No,Yes,High School,Low,8
+S1030,Ahmed,Miller,student30@drivetest.com,Male,25,Business,91.83,45.2,52.93,70.9,74.52,88.35,76.57,56.77,F,16.7,Yes,Yes,None,High,10
+S1031,Sara,Johnson,student31@drivetest.com,Female,20,CS,72.95,43.1,49.56,64.22,66.36,87.66,54.99,51.84,F,24.1,Yes,No,PhD,Medium,3
+S1032,Sara,Miller,student32@drivetest.com,Male,20,Business,90.96,54.76,64.44,74.1,79.52,90.28,66.07,65.73,D,14.6,Yes,No,High School,Medium,6
+S1033,Peter,Wilson,student33@drivetest.com,Male,25,Mathematics,92.4,91.73,100.0,75.09,79.41,83.99,59.62,89.92,B,24.9,No,Yes,PhD,Medium,2
+S1034,John,Davis,student34@drivetest.com,Male,21,Science,87.05,82.72,94.21,73.5,78.2,74.91,66.09,85.6,B,14.8,Yes,Yes,Master's,Medium,1
+S1035,Jane,Johnson,student35@drivetest.com,Male,25,Science,83.84,72.48,81.42,65.04,74.77,85.95,78.49,76.99,C,26.4,Yes,No,Bachelor's,High,3
+S1036,Sara,Johnson,student36@drivetest.com,Male,23,CS,94.61,46.99,54.91,69.58,72.9,90.81,59.7,56.9,F,20.4,Yes,No,None,High,4
+S1037,Ahmed,Williams,student37@drivetest.com,Male,25,Science,82.79,74.07,84.97,76.62,80.44,83.91,48.01,79.8,C,27.5,Yes,Yes,Bachelor's,High,10
+S1038,Peter,Williams,student38@drivetest.com,Male,18,Business,93.58,69.61,78.96,69.04,74.14,79.8,50.7,73.0,C,10.6,No,Yes,Master's,Low,5
+S1039,Ahmed,Smith,student39@drivetest.com,Male,19,Mathematics,92.17,62.88,71.84,69.07,72.3,86.27,61.85,69.25,D,29.9,No,Yes,None,High,3
+S1040,Liam,Wilson,student40@drivetest.com,Female,25,CS,82.43,84.81,96.39,72.23,79.6,73.69,72.23,87.32,B,25.6,Yes,No,None,Medium,5
+S1041,Omar,Johnson,student41@drivetest.com,Female,20,CS,72.18,97.02,100.0,66.3,80.88,89.5,85.28,92.51,A,29.9,Yes,No,Master's,High,8
+S1042,Sara,Brown,student42@drivetest.com,Male,24,Mathematics,90.66,97.26,100.0,72.82,82.16,87.33,70.61,92.83,A,28.7,Yes,Yes,None,Low,1
+S1043,Ahmed,Smith,student43@drivetest.com,Male,22,Engineering,72.91,76.69,87.97,78.29,82.35,85.73,83.69,84.77,B,21.5,Yes,Yes,Master's,Low,3
+S1044,Michael,Brown,student44@drivetest.com,Female,22,CS,78.58,56.45,64.88,67.6,73.5,84.75,81.9,65.8,D,15.1,Yes,Yes,None,Low,6
+S1045,Susan,Brown,student45@drivetest.com,Female,24,Business,92.4,49.26,57.17,67.57,72.22,86.07,61.32,59.2,F,24.1,No,Yes,High School,Low,7
+S1046,Omar,Davis,student46@drivetest.com,Female,23,CS,91.95,74.77,86.04,76.7,81.42,88.74,52.37,80.34,B,13.7,No,Yes,High School,Low,7
+S1047,Ahmed,Williams,student47@drivetest.com,Male,21,Business,73.0,91.86,100.0,63.13,83.1,88.31,84.4,89.87,B,28.8,Yes,No,Bachelor's,Medium,6
+S1048,Susan,Johnson,student48@drivetest.com,Male,22,Science,96.34,80.64,90.87,69.54,77.3,79.91,89.04,85.06,B,10.0,Yes,Yes,PhD,Medium,7
+S1049,Susan,Miller,student49@drivetest.com,Male,25,Engineering,91.31,98.05,100.0,55.98,87.95,84.34,51.84,89.75,B,12.7,Yes,Yes,Bachelor's,High,3
+S1050,Susan,Williams,student50@drivetest.com,Male,20,Science,83.74,96.84,100.0,52.7,92.61,98.67,82.68,91.68,A,16.5,No,Yes,PhD,High,3
+S1051,Peter,Williams,student51@drivetest.com,Female,20,Engineering,89.47,43.27,51.13,71.01,75.4,90.89,45.42,54.49,F,14.6,Yes,Yes,Bachelor's,Medium,1
+S1052,Michael,Williams,student52@drivetest.com,Male,23,Business,83.9,79.14,89.34,68.99,77.89,83.54,75.54,82.8,B,29.9,No,No,Bachelor's,Medium,10
+S1053,Emma,Johnson,student53@drivetest.com,Male,22,Business,87.76,57.17,66.44,72.6,76.53,88.42,50.11,66.19,D,29.2,Yes,No,PhD,Medium,3
+S1054,John,Smith,student54@drivetest.com,Male,18,Business,89.84,65.41,74.55,68.04,74.72,83.65,58.74,70.9,C,20.0,Yes,No,Master's,High,9
+S1055,Olivia,Williams,student55@drivetest.com,Male,20,Business,92.51,69.69,79.4,71.91,75.56,86.29,66.97,75.7,C,10.8,No,No,Bachelor's,High,2
+S1056,John,Davis,student56@drivetest.com,Female,22,Business,90.31,76.62,86.4,70.73,78.29,80.3,77.19,81.18,B,29.9,No,Yes,None,High,2
+S1057,Peter,Miller,student57@drivetest.com,Male,20,CS,72.03,51.81,60.59,71.59,77.96,87.19,41.92,61.94,D,10.0,Yes,No,Bachelor's,High,7
+S1058,Michael,Johnson,student58@drivetest.com,Female,22,Engineering,77.86,96.55,100.0,60.84,81.71,84.7,69.56,90.58,A,15.6,No,Yes,PhD,High,4
+S1059,Olivia,Wilson,student59@drivetest.com,Female,22,Science,99.98,73.18,83.0,69.3,78.47,84.45,69.76,79.24,C,26.4,Yes,Yes,Master's,Low,3
+S1060,Susan,Brown,student60@drivetest.com,Male,25,Engineering,91.87,79.16,89.96,72.15,77.58,81.11,74.14,83.56,B,13.7,No,Yes,High School,Low,5
+S1061,Emma,Jones,student61@drivetest.com,Male,20,CS,94.39,40.1,48.09,72.43,76.5,89.9,40.1,51.69,F,16.5,No,No,High School,Low,6
+S1062,Omar,Brown,student62@drivetest.com,Female,20,CS,95.6,67.63,77.3,71.18,75.75,85.25,58.83,73.81,C,29.9,Yes,Yes,Bachelor's,Low,1
+S1063,Jane,Jones,student63@drivetest.com,Female,25,CS,76.01,96.1,100.0,60.58,83.03,89.26,62.86,89.69,B,17.4,No,Yes,High School,Low,10
+S1064,Sara,Wilson,student64@drivetest.com,Female,19,Engineering,95.77,89.65,100.0,77.29,82.84,82.26,99.23,92.51,A,29.9,No,Yes,Master's,Low,3
+S1065,Susan,Smith,student65@drivetest.com,Female,25,Mathematics,80.79,93.41,100.0,62.33,83.27,94.22,96.65,91.13,A,27.1,No,Yes,None,Medium,4
+S1066,Jane,Davis,student66@drivetest.com,Female,20,Mathematics,83.21,69.66,78.96,69.61,74.65,83.9,78.1,75.14,C,29.9,Yes,Yes,High School,Medium,1
+S1067,Ahmed,Williams,student67@drivetest.com,Female,19,CS,72.17,45.48,52.26,65.25,69.1,82.78,57.06,55.08,F,10.0,Yes,Yes,High School,Low,3
+S1068,Sara,Wilson,student68@drivetest.com,Female,18,CS,82.21,83.08,93.52,69.6,78.27,78.29,67.31,85.12,B,29.9,No,No,PhD,High,1
+S1069,Michael,Johnson,student69@drivetest.com,Female,23,Science,83.07,52.17,60.91,71.64,77.89,87.03,50.81,62.24,D,19.2,Yes,No,PhD,Medium,7
+S1070,Susan,Wilson,student70@drivetest.com,Male,24,Mathematics,98.05,58.85,67.75,70.52,74.5,84.15,64.21,67.84,D,29.9,Yes,No,PhD,Low,7
+S1071,Ahmed,Brown,student71@drivetest.com,Male,21,Science,89.8,83.27,94.39,70.92,79.52,81.16,74.82,85.92,B,14.0,Yes,Yes,None,Medium,9
+S1072,Sara,Brown,student72@drivetest.com,Male,23,CS,91.24,96.96,100.0,52.09,92.54,98.67,90.96,91.86,A,29.9,Yes,No,PhD,High,8
+S1073,Susan,Jones,student73@drivetest.com,Female,22,Engineering,94.3,95.16,100.0,73.43,83.56,87.53,52.12,90.87,A,29.9,Yes,Yes,None,Medium,4
+S1074,Jane,Brown,student74@drivetest.com,Female,22,Mathematics,92.27,97.77,100.0,63.99,80.79,72.71,94.79,92.29,A,29.9,Yes,Yes,None,High,4
+S1075,Omar,Johnson,student75@drivetest.com,Male,22,Business,70.18,94.94,100.0,61.79,81.65,85.95,78.58,89.59,B,10.0,No,No,High School,Low,10
+S1076,Peter,Williams,student76@drivetest.com,Female,22,CS,72.63,89.13,100.0,78.79,82.49,83.9,78.89,90.85,A,22.0,Yes,Yes,PhD,High,10
+S1077,Michael,Brown,student77@drivetest.com,Male,21,Engineering,86.07,67.31,76.54,68.7,73.91,82.35,89.34,74.82,C,26.4,Yes,No,High School,High,9
+S1078,Susan,Johnson,student78@drivetest.com,Female,21,Engineering,72.6,58.74,67.54,69.86,74.45,83.47,43.25,65.94,D,29.9,No,Yes,PhD,High,4
+S1079,Liam,Jones,student79@drivetest.com,Female,25,Engineering,94.57,69.17,78.6,71.74,75.9,82.72,55.94,74.58,C,29.9,Yes,Yes,None,Low,1
+S1080,Ahmed,Wilson,student80@drivetest.com,Female,23,Mathematics,78.27,89.34,100.0,76.62,82.02,86.1,64.21,89.92,B,28.8,Yes,No,High School,Low,7
+S1081,Sara,Johnson,student81@drivetest.com,Male,20,CS,78.36,97.23,100.0,52.3,92.21,98.67,61.94,90.23,A,29.9,Yes,Yes,PhD,Low,3
+S1082,Liam,Jones,student82@drivetest.com,Female,22,Business,81.71,94.96,100.0,62.13,82.49,88.94,77.58,90.0,A,29.9,Yes,Yes,Master's,Medium,6
+S1083,Sara,Williams,student83@drivetest.com,Male,22,CS,82.3,96.65,100.0,60.84,81.71,84.7,69.56,90.58,A,16.5,No,Yes,PhD,Low,10
+S1084,Michael,Miller,student84@drivetest.com,Male,25,Engineering,89.04,41.92,49.61,71.29,75.4,89.9,46.12,53.25,F,29.9,No,Yes,None,High,2
+S1085,Sara,Johnson,student85@drivetest.com,Female,20,Business,87.35,50.31,58.07,66.86,72.23,90.96,52.48,59.0,F,29.9,Yes,Yes,Master's,Low,1
+S1086,John,Williams,student86@drivetest.com,Female,19,Engineering,91.87,79.16,89.96,72.15,77.58,81.11,74.14,83.56,B,29.9,Yes,Yes,None,Medium,4
+S1087,Olivia,Miller,student87@drivetest.com,Male,23,Science,77.86,96.55,100.0,60.84,81.71,84.7,69.56,90.58,A,15.6,No,Yes,PhD,High,4
+S1088,Michael,Johnson,student88@drivetest.com,Female,22,Engineering,83.07,52.17,60.91,71.64,77.89,87.03,50.81,62.24,D,19.2,Yes,No,PhD,Medium,7
+S1089,Jane,Davis,student89@drivetest.com,Female,20,Mathematics,83.21,69.66,78.96,69.61,74.65,83.9,78.1,75.14,C,29.9,Yes,Yes,High School,Medium,1
+S1090,Ahmed,Williams,student90@drivetest.com,Female,19,CS,72.17,45.48,52.26,65.25,69.1,82.78,57.06,55.08,F,10.0,Yes,Yes,High School,Low,3
+S1091,Sara,Wilson,student91@drivetest.com,Female,18,CS,82.21,83.08,93.52,69.6,78.27,78.29,67.31,85.12,B,29.9,No,No,PhD,High,1
+S1092,Michael,Johnson,student92@drivetest.com,Female,23,Science,83.07,52.17,60.91,71.64,77.89,87.03,50.81,62.24,D,19.2,Yes,No,PhD,Medium,7
+S1093,Susan,Wilson,student93@drivetest.com,Male,24,Mathematics,98.05,58.85,67.75,70.52,74.5,84.15,64.21,67.84,D,29.9,Yes,No,PhD,Low,7
+S1094,Ahmed,Brown,student94@drivetest.com,Male,21,Science,89.8,83.27,94.39,70.92,79.52,81.16,74.82,85.92,B,14.0,Yes,Yes,None,Medium,9
+S1095,Sara,Brown,student95@drivetest.com,Male,23,CS,91.24,96.96,100.0,52.09,92.54,98.67,90.96,91.86,A,29.9,Yes,No,PhD,High,8
+S1096,Susan,Jones,student96@drivetest.com,Female,22,Engineering,94.3,95.16,100.0,73.43,83.56,87.53,52.12,90.87,A,29.9,Yes,Yes,None,Medium,4
+S1097,Jane,Brown,student97@drivetest.com,Female,22,Mathematics,92.27,97.77,100.0,63.99,80.79,72.71,94.79,92.29,A,29.9,Yes,Yes,None,High,4
+S1098,Omar,Johnson,student98@drivetest.com,Male,22,Business,70.18,94.94,100.0,61.79,81.65,85.95,78.58,89.59,B,10.0,No,No,High School,Low,10
+S1099,Peter,Williams,student99@drivetest.com,Female,22,CS,72.63,89.13,100.0,78.79,82.49,83.9,78.89,90.85,A,22.0,Yes,Yes,PhD,High,10
+S1100,Michael,Brown,student100@drivetest.com,Male,21,Engineering,86.07,67.31,76.54,68.7,73.91,82.35,89.34,74.82,C,26.4,Yes,No,High School,High,9
+... and 900 more rows
